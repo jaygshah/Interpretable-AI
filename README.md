@@ -9,6 +9,8 @@ I will be updatting this more often as I read more papers and related readings a
 * [Visualizing Representations: Deep Learning and Human Beings](http://colah.github.io/posts/2015-01-Visualizing-Representations/)
 * [Differentiable Image Parameterizations](https://distill.pub/2018/differentiable-parameterizations/)
 * [Activation Atlas](https://distill.pub/2019/activation-atlas/)
+* [Why we should rigorously measure and forecast AI progress?](https://www.lesswrong.com/posts/axzPYvcmWr2TwvnLi/an-101-why-we-should-rigorously-measure-and-forecast-ai)
+1. [How can Interpretability help Alignment?](https://www.lesswrong.com/posts/uRnprGSiLGXv35foX/how-can-interpretability-help-alignment)
 
 # Books
 
