@@ -25,3 +25,8 @@ I will be updatting this more often as I read more papers and related readings a
 * [Lime](https://github.com/marcotcr/lime)
 * [SHAP](https://github.com/slundberg/shap)
 * [InterpretML](https://github.com/interpretml/interpret)
+
+---
+
+# Cool Tools
+* [Play with a Neural Network](https://github.com/jaygshah/Interpretable-AI.git)
