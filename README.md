@@ -15,6 +15,12 @@ I will be updatting this more often as I read more papers and related readings a
 	1. [How can Interpretability help Alignment?](https://www.lesswrong.com/posts/uRnprGSiLGXv35foX/how-can-interpretability-help-alignment)
 * [On Model Explainability From LIME, SHAP, to Explainable Boosting](https://everdark.github.io/k9/notebooks/ml/model_explain/model_explain.nb.html)
 
+# Research Papers
+* [Explaining Neural Networks by Decoding Layer Activations](https://arxiv.org/pdf/2005.13630v1.pdf)
+* [InterpNET: Neural Introspection for Interpretable Deep Learning](https://arxiv.org/pdf/1710.09511v2.pdf)
+	1. And it's publicly available [code](https://github.com/sbarratt/interpnet)
+* [What do Deep Networks Like to See?](https://arxiv.org/pdf/1803.08337v1.pdf)
+
 # Books
 
 * [Interpretable ML-A Guide for Making Black Box Models Explainable-Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
