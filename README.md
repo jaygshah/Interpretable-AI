@@ -18,8 +18,14 @@ I will be updatting this more often as I read more papers and related readings a
 # Research Papers
 * [Explaining Neural Networks by Decoding Layer Activations](https://arxiv.org/pdf/2005.13630v1.pdf)
 * [InterpNET: Neural Introspection for Interpretable Deep Learning](https://arxiv.org/pdf/1710.09511v2.pdf)
-	1. And it's publicly available [code](https://github.com/sbarratt/interpnet)
+	* And it's publicly available [code](https://github.com/sbarratt/interpnet)
 * [What do Deep Networks Like to See?](https://arxiv.org/pdf/1803.08337v1.pdf)
+* [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/abs/1702.08608)
+	* (Finale Doshi-Velez et al) discusses the field of interpretability research, and how it can be made more rigorous and well-defined. The authors first highlight the problem of defining interpretability in the first place - they don't have a resolution to this problem, but suggest that we can think of interpretability in terms of what it's used for. They claim that interpretability is used for confirming other important desiderata in ML systems, which stem from an incompleteness in the problem formalization. For example, if we want a system to be unbiased but aren't able to formally specify this in the reward function, or the reward we're optimising for is only a proxy of the true reward, then we could use interpretability to inspect our model and see whether it's reasoning how we want it to.
+
+	The authors next move on to discussing how we can evaluate interpretability methods, providing a taxonomy of different evaluation methods: Application-grounded is when the method is evaluated in the context it will actually be used in, by real humans (i.e. doctors getting explanations for AI diagnoses); Human-grounded is about conducting simpler human-subject experiments (who are perhaps not domain experts) using possibly simpler tasks than what the intended purpose of the method is; Functionally-grounded is where no humans are involved in the experiments, and instead some formal notion of interpretability is measured for the method to evaluate its quality. Each of these evaluation methods can be used in different circumstances, depending on the method and the context it will be used in.
+
+	Finally, the authors propose a data-driven approach to understanding the factors which are important in interpretability. They propose to try and create a dataset of applications of machine learning models to tasks, and then analyse this dataset to find important factors. They list some possible task- and method- related factors, and then conclude with recommendations to researchers doing interpretability.
 
 # Books
 
