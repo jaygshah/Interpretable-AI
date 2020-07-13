@@ -27,6 +27,8 @@ I will be updatting this more often as I read more papers and related readings a
 
 	* Finally, the authors propose a data-driven approach to understanding the factors which are important in interpretability. They propose to try and create a dataset of applications of machine learning models to tasks, and then analyse this dataset to find important factors. They list some possible task- and method- related factors, and then conclude with recommendations to researchers doing interpretability.
 
+* [Visualizing and Understanding Convolutional Networks - Also, in Cousera CNN > Week-4](https://arxiv.org/pdf/1311.2901.pdf)
+
 # Books
 
 * [Interpretable ML-A Guide for Making Black Box Models Explainable-Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
