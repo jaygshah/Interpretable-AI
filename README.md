@@ -14,6 +14,10 @@ I will be updatting this more often as I read more papers and related readings a
 * [Why we should rigorously measure and forecast AI progress?](https://www.lesswrong.com/posts/axzPYvcmWr2TwvnLi/an-101-why-we-should-rigorously-measure-and-forecast-ai)
 	1. [How can Interpretability help Alignment?](https://www.lesswrong.com/posts/uRnprGSiLGXv35foX/how-can-interpretability-help-alignment)
 * [On Model Explainability From LIME, SHAP, to Explainable Boosting](https://everdark.github.io/k9/notebooks/ml/model_explain/model_explain.nb.html)
+* [Feature wise transformations - in case of multi-modality and integrating models](https://distill.pub/2018/feature-wise-transformations/)
+
+
+* [Summaries on various AI topics - Alignment Newsletter](https://docs.google.com/spreadsheets/d/1PwWbWZ6FPqAgZWOoOcXM8N_tUCuxpEyMbN1NYYC02aM/edit#gid=0)
 
 # Research Papers
 * [Explaining Neural Networks by Decoding Layer Activations](https://arxiv.org/pdf/2005.13630v1.pdf)
