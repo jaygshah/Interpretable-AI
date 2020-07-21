@@ -15,9 +15,11 @@ I will be updatting this more often as I read more papers and related readings a
 	1. [How can Interpretability help Alignment?](https://www.lesswrong.com/posts/uRnprGSiLGXv35foX/how-can-interpretability-help-alignment)
 * [On Model Explainability From LIME, SHAP, to Explainable Boosting](https://everdark.github.io/k9/notebooks/ml/model_explain/model_explain.nb.html)
 * [Feature wise transformations - in case of multi-modality and integrating models](https://distill.pub/2018/feature-wise-transformations/)
+* [Explaining Deep Neural Networks using Unsupervised Clustering](https://arxiv.org/pdf/2007.07477v1.pdf)
 
 
 * [Summaries on various AI topics - Alignment Newsletter](https://docs.google.com/spreadsheets/d/1PwWbWZ6FPqAgZWOoOcXM8N_tUCuxpEyMbN1NYYC02aM/edit#gid=0)
+* [Podcast: Making Intelligence Intelligible - Dr Rich Caruana](https://www.microsoft.com/en-us/research/podcast/making-intelligence-intelligible-dr-rich-caruana/?OCID=msr_podcast_rcaruana_tw)
 
 # Research Papers
 * [Explaining Neural Networks by Decoding Layer Activations](https://arxiv.org/pdf/2005.13630v1.pdf)
